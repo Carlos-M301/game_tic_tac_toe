@@ -1,6 +1,6 @@
-# game_tic_tac_toe
+# juego-tres-en-linea
 
-A new Flutter application.
+El juego tres en línea por medio de flutter.
 
 ## Getting Started
 
